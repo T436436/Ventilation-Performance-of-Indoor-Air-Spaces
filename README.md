@@ -43,7 +43,7 @@ After validation, the numerical and experimental results are compared to determi
 
 > **Is effective indoor ventilation determined only by how much air is supplied, or does it depend equally—or more strongly—on how that air is distributed throughout the room?**
 
-## Expected Outcomes
+## Simulation 
 
 * Experimentally validated CFD models of indoor airflow and contaminant transport.
 * Quantitative comparison of ACR and HVAC-layout effects.
