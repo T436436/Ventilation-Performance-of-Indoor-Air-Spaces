@@ -14,12 +14,8 @@ The project combines **Computational Fluid Dynamics (CFD)**, controlled experime
 * Assess the effects of the location and size of **return-air openings**.
 * Examine the influence of **room geometry and room size**.
 * Study the effects of **supply-air temperature** and indoor thermal conditions.
-* Evaluate additional parameters, including room layout, heat-source location, contaminant-source location, contaminant type, and source strength.
-* Develop CFD models to predict airflow velocity, circulation patterns, and contaminant transport.
 * Conduct controlled experiments under selected ventilation conditions.
-* Validate CFD predictions using experimental measurements.
 * Quantify the relative importance of ACR and HVAC configuration.
-* Develop correlations connecting ACR, HVAC layout, and ventilation performance.
 
 ## Methodology
 
