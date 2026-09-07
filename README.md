@@ -52,5 +52,9 @@ After validation, the numerical and experimental results are compared to determi
 
 ## Experiment
 
-* Experimentally validated CFD models of indoor airflow and contaminant transport.
-* 
+* Set up experimental chamber and build the duct connections
+* Design and 3d print honeycomb for using as flow straightener.
+* Measure temperature, velocity and air flow rate in the required locations.
+* Experimentally validate CFD models of indoor airflow and contaminant transport.
+* Carry out smoke tests and use lasers for visualization of airflow pattern.
+  
