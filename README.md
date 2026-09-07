@@ -62,6 +62,4 @@ After validation, the numerical and experimental results are compared to determi
 
 
 
-https://github.com/user-attachments/assets/3703f3b6-34f6-4b48-9fa1-20001d4992ad
-
 
