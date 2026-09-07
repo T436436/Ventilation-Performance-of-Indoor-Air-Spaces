@@ -57,7 +57,13 @@ After validation, the numerical and experimental results are compared to determi
 * Measure temperature, velocity and air flow rate in the required locations.
 * Experimentally validate CFD models of indoor airflow and contaminant transport.
 * Carry out smoke tests and use lasers for visualization of airflow pattern.
-  
+  <img width="3000" height="4000" alt="Utrasonic sensor" src="https://github.com/user-attachments/assets/2faadb88-3dcf-4857-ad48-8c066a0d6ed0" />
+<img width="1020" height="1053" alt="Measurement locations" src="https://github.com/user-attachments/assets/e94281d4-213d-479f-9ea6-7ba4977b5e08" />
+<img width="4000" height="3000" alt="honeycomb_straightener" src="https://github.com/user-attachments/assets/c006bdc0-059b-43f5-b48e-f15ee621a9db" />
+<img width="4000" height="3000" alt="Duct connection_2" src="https://github.com/user-attachments/assets/5b1b5216-4c1e-4e92-bbff-3b53027b62b2" />
+<img width="3264" height="2448" alt="Duct connection" src="https://github.com/user-attachments/assets/f99ee385-7112-4d52-b1c2-b5836644b7c7" />
+
+
 ## Smoke test and visualization
 
 
