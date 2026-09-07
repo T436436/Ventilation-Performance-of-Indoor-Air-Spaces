@@ -51,3 +51,12 @@ After validation, the numerical and experimental results are compared to determi
 * Ranking of the most influential ventilation-design parameters.
 * Correlations between ACR, airflow configuration, and ventilation performance.
 * Recommendations for improving indoor air quality while limiting HVAC energy consumption.
+
+## Experiment
+
+* Experimentally validated CFD models of indoor airflow and contaminant transport.
+* Quantitative comparison of ACR and HVAC-layout effects.
+* Identification of ineffective airflow regions and contaminant accumulation zones.
+* Ranking of the most influential ventilation-design parameters.
+* Correlations between ACR, airflow configuration, and ventilation performance.
+* Recommendations for improving indoor air quality while limiting HVAC energy consumption
