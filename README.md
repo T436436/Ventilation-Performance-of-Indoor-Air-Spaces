@@ -58,3 +58,10 @@ After validation, the numerical and experimental results are compared to determi
 * Experimentally validate CFD models of indoor airflow and contaminant transport.
 * Carry out smoke tests and use lasers for visualization of airflow pattern.
   
+## Smoke test and visualization
+
+
+
+https://github.com/user-attachments/assets/3703f3b6-34f6-4b48-9fa1-20001d4992ad
+
+
