@@ -31,24 +31,6 @@ flowchart TD
     G --> H["Develop correlations and design guidance"]
 ```
 
-The methodology consists of the following stages:
-
-1. **Research Planning:** Identify the ventilation parameters and operating conditions to be investigated.
-
-2. **Test-Matrix Development:** Select combinations of ACR, diffuser configuration, return-air arrangement, room geometry, supply temperature, heat sources, and contaminant conditions.
-
-3. **CFD Modeling:** Develop numerical room models to predict velocity fields, airflow circulation, contaminant transport, and ventilation performance.
-
-4. **Controlled Experiments:** Measure airflow and ventilation behavior for selected cases from the test matrix.
-
-5. **Model Validation:** Compare CFD predictions with experimental measurements to evaluate numerical accuracy and reliability.
-
-6. **Comparative Analysis:** Analyze the validated data to determine the relative effects of ACR, HVAC configuration, and other operating parameters.
-
-7. **Correlation Development:** Establish relationships among ACR, airflow distribution, HVAC layout, and ventilation performance.
-
-8. **Design Recommendations:** Identify ventilation strategies that provide effective contaminant removal and indoor air quality with reduced energy use.
-
 ## Project Description
 
 A higher Air Change Rate introduces more fresh air into a room, but it does not necessarily guarantee effective ventilation throughout the entire occupied space. Poor diffuser placement, unfavorable return-air location, thermal stratification, or recirculation zones may create regions where contaminants remain trapped even when the overall ventilation rate is high.
